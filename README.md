@@ -11,7 +11,7 @@ Licence Maths-Informatique Appliquée aux
 Sciences Humaines et Sociales (Niveau DEUG)  
 Université de Bordeaux  
 - Parcours Sciences Cognitives  
-
+  
 Baccalauréat S SVT  
 Spécialité Mathématiques
 
