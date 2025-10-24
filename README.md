@@ -10,7 +10,7 @@ Wild Code School
 Licence Maths-Informatique Appliquée aux  
 Sciences Humaines et Sociales (Niveau DEUG)  
 Université de Bordeaux  
-- Parcours Sciences Cognitives  
+-Parcours Sciences Cognitives  
 
   
 Baccalauréat S SVT  
